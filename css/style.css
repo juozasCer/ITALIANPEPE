@@ -857,7 +857,7 @@ p {
 
 .over-item h3 {
     font-size: 24px;
-    color: black;
+    color: rgb(255, 255, 255);
     font-family: pb;
     padding: 20px 0;
     position: relative;
